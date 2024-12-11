@@ -108,4 +108,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-For more information, please refer to the [documentation](https://github.com/dustinwloring198/ollama-nextjs) or contact the project maintainers.
+For more information, please refer to the [documentation](https://github.com/dustinwloring1988/ollama-nextjs) or contact the project maintainers.
