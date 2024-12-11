@@ -1,3 +1,5 @@
+[![Ollama NextJS: A way to manage multiple ollama instances](./public/preview.jpg)](https://github.com/dustinwloring1988/ollama-nextjs)
+
 # Ollama Next.js
 
 Ollama Next.js is a web application built with Next.js that allows users to interact with Ollama servers. This project provides a user-friendly interface for managing chat sessions, configuring server settings, and customizing the appearance of the application.
